@@ -32,42 +32,36 @@
 
         <!-- Retencions IRPF 10% -->
 
-        <record id="fptt_retencions10sale_45"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions10sale_45" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi45"/>
         </record>
-        <record id="fptt_retencions10sale_45_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions10sale_45_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions10"/>
-        </record>        
-        <record id="fptt_retencions10sale_25"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions10sale_25" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi25"/>
         </record>
-        <record id="fptt_retencions10sale_25_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions10sale_25_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions10"/>
-        </record>        
-        <record id="fptt_retencions10sale_1"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions10sale_1" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi1"/>
         </record>
-        <record id="fptt_retencions10sale_1_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions10sale_1_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions10"/>
-        </record>        
+        </record>
         <record id="fptt_retencions10_45" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi45"/>
@@ -77,7 +71,7 @@
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions10"/>
-        </record>        
+        </record>
         <record id="fptt_retencions10_25" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi25"/>
@@ -87,7 +81,7 @@
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions10"/>
-        </record>        
+        </record>
         <record id="fptt_retencions10_1" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi1"/>
@@ -97,15 +91,13 @@
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions10"/>
-        </record>        
-        <record id="fptt_retencions10sale_0"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions10sale_0" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi0"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi0"/>
         </record>
-        <record id="fptt_retencions10sale_0_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions10sale_0_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions10"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi0"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions10"/>
@@ -123,42 +115,36 @@
 
         <!-- Retenciones IRPF 5% -->
 
-        <record id="fptt_retencions5sale_45"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions5sale_45" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi45"/>
         </record>
-        <record id="fptt_retencions5sale_45_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions5sale_45_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions5"/>
-        </record>        
-        <record id="fptt_retencions5sale_25"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions5sale_25" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi25"/>
         </record>
-        <record id="fptt_retencions5sale_25_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions5sale_25_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions5"/>
-        </record>        
-        <record id="fptt_retencions5sale_1"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions5sale_1" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi1"/>
         </record>
-        <record id="fptt_retencions5sale_1_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions5sale_1_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions5"/>
-        </record>        
+        </record>
         <record id="fptt_retencions5_45" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi45"/>
@@ -168,7 +154,7 @@
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi45"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions5"/>
-        </record>        
+        </record>
         <record id="fptt_retencions5_25" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi25"/>
@@ -178,7 +164,7 @@
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi25"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions5"/>
-        </record>        
+        </record>
         <record id="fptt_retencions5_1" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi1"/>
@@ -188,15 +174,13 @@
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_p_igi1"/>
             <field name="tax_dest_id" ref="account_tax_template_p_retencions5"/>
-        </record>        
-        <record id="fptt_retencions5sale_0"
-            model="account.fiscal.position.tax.template">
+        </record>
+        <record id="fptt_retencions5sale_0" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi0"/>
             <field name="tax_dest_id" ref="account_tax_template_s_igi0"/>
         </record>
-        <record id="fptt_retencions5sale_0_2"
-            model="account.fiscal.position.tax.template">
+        <record id="fptt_retencions5sale_0_2" model="account.fiscal.position.tax.template">
             <field name="position_id" ref="fp_retencions5"/>
             <field name="tax_src_id" ref="account_tax_template_s_igi0"/>
             <field name="tax_dest_id" ref="account_tax_template_s_retencions5"/>
