@@ -23,11 +23,11 @@ Andorra Comptes Comptables
         "base_vat",
     ],
     "data" : [
-        'data/account_group_data.xml',
         'data/account_chart_template_data.xml',
         'data/account.account.template-common.csv',
         'data/account.account.template-full.csv',
         'data/account_chart_template_account_account_link.xml',
+        'data/account_group_data.xml',
         'data/account_tax_group_data.xml',
         'data/account_tax_data.xml',
         'data/account_fiscal_position_template_data.xml',
