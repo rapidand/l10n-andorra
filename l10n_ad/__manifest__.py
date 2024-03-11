@@ -33,4 +33,5 @@ Andorra Comptes Comptables
         'data/account_fiscal_position_template_data.xml',
         'data/account_chart_template_configure_data.xml',
     ],
+    'license': 'AGPL-3',
 }
