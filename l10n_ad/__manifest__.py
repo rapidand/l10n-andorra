@@ -3,6 +3,7 @@
 
 # List of contributors:
 # Marc Tormo <marc@batista10.cat>
+# Ian Martorell <ianmartorell@gmail.com>
 
 {
     "name" : "Andorra - Accounting",
